@@ -1,0 +1,339 @@
+.body1{
+    width: 100%;
+    height: 37.4px;
+     background: #1d75de;;
+     padding-top: 15px;
+}
+body{
+    margin: 0;
+}
+.bharath{
+    color: #fff;
+    text-decoration: underline;
+    margin-left: 185px;
+    font-size: 12px;
+cursor: pointer;
+}
+.classx{
+    margin-left: 1060px;
+    font-size: 18px;
+    font-family: Circular,spotify-circular,Helvetica,Arial,sans-serif;
+    font-weight: 700;
+    color: #fff;
+    cursor: pointer;
+}
+.body2{
+    width: 100%;
+    height: 80px;
+    
+}
+.body21{
+    width: 50%;
+    height: 80px;
+     background: #000;
+    float: left;
+}
+.body22{
+    width: 50%;
+    height: 50px;
+    background: #000;
+    float: left;
+    padding-top: 30px;
+    
+}
+.spotifylogo{
+    width: 132px;
+    height: 41.9px;
+    margin-left: 180px;
+    margin-top: 15px;
+    cursor: pointer;
+}
+.premium{
+    color: #fff;
+    font-size: 16px;
+    font-family: Circular,spotify-circular,Helvetica,Arial,sans-serif;
+    font-weight: 700;
+    margin-left: 100px;
+    cursor: pointer;
+
+}
+.support{
+    color: #fff;
+    font-size: 16px;
+    font-family: Circular,spotify-circular,Helvetica,Arial,sans-serif;
+    font-weight: 700;
+    margin-left: 30px;
+    cursor: pointer;
+
+}
+.index{
+    color: #fff;
+    background: #000;
+    border: none;
+    margin-left: 10px;
+    width: 25px;
+    cursor: pointer;
+}
+.body3{
+    width: 100%;
+    height: 600px;
+    
+    
+}
+.image1{
+    width: 100%;
+    height: 600px;
+}
+.butt{
+    position: absolute;
+    border-color: transparent;
+    border-radius: 23px;
+    top: 490px;
+    left: 643px;
+    width: 207px;
+    height: 50px;
+    background-color: #fff;
+    font-weight: 600;
+    cursor: pointer;
+}
+.body4{
+    height: 595.3px;
+    width: 100%;
+    
+}
+.image2{
+    height: 595.3px;
+    width: 100%;
+}
+.body5{
+    width: 100%;
+    height: 495.2px;
+    
+}
+.image3{
+    width: 100%;
+    height: 495.2px;
+}
+.body5{
+    height: 585.5px;
+    width: 100%;
+}
+.gotq{
+    letter-spacing: -0.015em;
+    font-weight: 900;
+    font-size: var(--headline-font-size,40px);
+    font-family: var(--font-family,spotify-circular),Helvetica,Arial,sans-serif;
+    margin-left: 620px;
+
+}
+.index2{
+    margin-left: 205px;
+    margin-top: 55px;
+    width: calc(70% - 24px);
+    font-size: 18px;
+    font-weight: 900;
+    text-align: -webkit-match-parent;
+    border-color: transparent;
+    height: 40px;
+    cursor: pointer;
+}
+.body6{
+    width: 100%;
+    height: 450px;
+}
+.image4{
+    width: 100%;
+    height: 450px;
+}
+.button{
+    position: absolute;
+    top: 2759px;
+    left: 660px;
+    width: 206px;
+    height: 51px;
+    border-color: transparent;
+    border-radius: 23px;
+    background-color: #fff;
+    font-weight: 600;
+    cursor: pointer;
+}
+.body7{
+    height: 353.6px;
+    width: 100%;
+    background: #000;
+}
+.body71{
+    width: 25%;
+    height: 353.6px;
+    
+    float: left;
+}
+.body72{
+    width: 45%;
+    height: 268.6.6px;
+    padding-top: 85px;
+    float: left;
+}
+.body73{
+    width: 30%;
+    height: 353.6px;
+    letter-spacing: 10px;
+    float: left;
+}
+.spotifylogo1{
+    width: 132px;
+    height: 41.9px;
+    margin-left: 190px;
+    margin-top: 70px;
+    cursor: pointer;
+}
+.company{
+    
+    color: #919496;
+    font-size: 12px;
+    font-weight: 900;
+   font-family:  Circular,spotify-circular,Helvetica,Arial,sans-serif;
+}
+.communities{
+    color: #919496;
+    font-size: 12px;
+    font-weight: 900;
+   font-family:  Circular,spotify-circular,Helvetica,Arial,sans-serif;
+   margin-left: 120px;
+}
+.useful{
+    color: #919496;
+    font-size: 12px;
+    font-weight: 900;
+   font-family:  Circular,spotify-circular,Helvetica,Arial,sans-serif;
+   margin-left: 90px;
+}
+.about{
+    color: #fff;
+   line-height: 45px;
+    font-size: 16px;
+    font-weight: 400;
+    font-family: Circular,spotify-circular,Helvetica,Arial,sans-serif;
+    cursor: pointer;
+}
+.for{
+    color: #fff;
+    line-height: 45px;
+     font-size: 16px;
+     font-weight: 400;
+     font-family: Circular,spotify-circular,Helvetica,Arial,sans-serif;
+     cursor: pointer;
+     margin-left: 145px;
+}
+.support1{
+    color: #fff;
+    line-height: 45px;
+     font-size: 16px;
+     font-weight: 400;
+     font-family: Circular,spotify-circular,Helvetica,Arial,sans-serif;
+     cursor: pointer;
+     margin-left: 115px;
+}
+.developers{
+    color: #fff;
+    line-height: 45px;
+     font-size: 16px;
+     font-weight: 400;
+     font-family: Circular,spotify-circular,Helvetica,Arial,sans-serif;
+     cursor: pointer;
+     margin-left: 153px;
+}
+.webplayer{
+    color: #fff;
+    line-height: 45px;
+     font-size: 16px;
+     font-weight: 400;
+     font-family: Circular,spotify-circular,Helvetica,Arial,sans-serif;
+     cursor: pointer;
+     margin-left: 107px;
+}
+.advertising{
+    color: #fff;
+    line-height: 45px;
+     font-size: 16px;
+     font-weight: 400;
+     font-family: Circular,spotify-circular,Helvetica,Arial,sans-serif;
+     cursor: pointer;
+     margin-left: 79px; 
+}
+.freemob{
+    color: #fff;
+    line-height: 45px;
+     font-size: 16px;
+     font-weight: 400;
+     font-family: Circular,spotify-circular,Helvetica,Arial,sans-serif;
+     cursor: pointer;
+     margin-left: 110px;
+}
+.investers{
+    color: #fff;
+    line-height: 45px;
+     font-size: 16px;
+     font-weight: 400;
+     font-family: Circular,spotify-circular,Helvetica,Arial,sans-serif;
+     cursor: pointer;
+     margin-left: 190px; 
+}
+.insta{
+    margin-top: 90px;
+    margin-left: 65px;
+    width: 54px;
+    height: 54px;
+    cursor: pointer;
+
+}
+.twitter{
+    width: 54px;
+    height: 54px;
+    cursor: pointer;
+}
+.body8{
+    width: 100%;
+    height: 100px;
+}
+.body81{
+    background: #000;
+    width: 70%;
+    height: 80px;
+    padding-top: 20px;
+    float: left;
+}
+.body82{
+    width:30% ;
+    height: 100px;
+    background: #000;
+    float: left;
+}
+.legal{
+    margin-left: 190px;
+    font-size: 12px;
+    color: #919496;
+    font-family: Circular,spotify-circular,Helvetica,Arial,sans-serif;
+    font-weight: 400;
+    cursor: pointer;
+}
+.privacycentr{
+    font-size: 12px;
+    color: #919496;
+    font-family: Circular,spotify-circular,Helvetica,Arial,sans-serif;
+    font-weight: 400;
+    cursor: pointer;
+    margin-left: 25px;
+}
+.para1{
+    color: #919496;
+    margin-left: 165px;
+}
+.para2{
+    color: #919496;
+    margin-left: 145px;
+    font-size: 12px;
+    font-family: Circular,spotify-circular,Helvetica,Arial,sans-serif;
+    font-weight: 400;
+    cursor: pointer;
+}
